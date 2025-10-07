@@ -1,6 +1,6 @@
 # UAV-Toolbox-Setup-Guide
 
-The UAV Toolbox Setup Guide is a comprehensive resource for researchers, students, and engineers working with PX4-based UAVs in MATLAB. It provides both written and video tutorials to help you set up the R2025a release of the UAV Toolbox and the UAV Toolbox Support Package for PX4 Autopilots.
+The UAV Toolbox Setup Guide repository is a comprehensive resource for researchers, students, and engineers working to test custom algorithms built in MATLAB/Simulink (i.e., model identification, path planning, control, etc.) using PX4-based UAVs in MATLAB. It provides both written and video tutorials to help set up the R2025a release of the UAV Toolbox and the UAV Toolbox Support Package for PX4 Autopilots.
 
 ---
 
@@ -15,10 +15,10 @@ The UAV Toolbox Setup Guide is a comprehensive resource for researchers, student
 ---
 
 ## File Guide
-- **[Appendices_Prerelease.pdf](https://github.com/gurt1223/UAV-Toolbox-Setup-Guide/blob/main/Appendices_Prerelease.pdf)**
+- **[Appendices_Prerelease.pdf](https://github.com/gurt1223/UAV-Toolbox-Setup-Guide/blob/main/Appendices_Prerelease.pdf)**<br>
   Pre-release edition of Garrett Asper's Master's Thesis Appendix. Step-by-step instructions for setting up the UAV Toolbox.
 
-- **[Video Tutorial](https://youtu.be/UafbBIGAWPQ)**  
+- **[Video Tutorial](https://youtu.be/UafbBIGAWPQ)**<br>
   Walkthrough video that complements the written guide.
 
 ---
@@ -61,13 +61,13 @@ Awarded Best Paper Submitted to the Modeling & Simulation Technical Committee.
 ---
 
 ## Acknowledgments
-Thank you to Patrick Corrigan, Benjamin Simmons, and Anthony Comer for your support in learning the ins and outs of this toolchain.
+Thank you to Patrick Corrigan, Benjamin Simmons, and Anthony Comer for your support in learning the ins and outs of this toolchain.<br>
 Thank you to the developers at MathWorks, particularly Arun Mathamkode and Ankur Bose, for your insight and openness to feedback on problems and improvements.
 
 ---
 
 ## Citation
-If you use the steps available in **Appendix_PreRelease.pdf** to set up the UAV Toolbox for your research, please cite Garrett Asper's Master's Thesis:  
-Asper, G. D., “An Evaluation of Fault-Tolerant Control Allocation Strategies for eVTOL Aircraft,” M.S. Thesis, Virginia Tech, Blacksburg, VA, To be published Jan. 2026. 
+If you use the steps available in **Appendix_PreRelease.pdf** to set up the UAV Toolbox for your research, please cite Garrett Asper's Master's Thesis:<br>  
+Asper, G. D., “An Evaluation of Fault-Tolerant Control Allocation Strategies for eVTOL Aircraft,” M.S. Thesis, Virginia Tech, Blacksburg, VA, To be published Jan. 2026.<br>
 _Please check back in January to ensure there are no updates to the citation. The repository contains a prerelease of the appendices, but citing the above thesis is the most effective way to acknowledge these resources._
 
