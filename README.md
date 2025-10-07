@@ -15,7 +15,7 @@ The UAV Toolbox Setup Guide is a comprehensive resource for researchers, student
 ---
 
 ## File Guide
-- **Appendix_PreRelease.pdf**  
+- **[Appendices_Prerelease.pdf](https://github.com/user-attachments/files/22755632/Appendices_Prerelease.pdf)**
   Pre-release edition of Garrett Asper's Master's Thesis Appendix. Step-by-step instructions for setting up the UAV Toolbox.
 
 - **[Video Tutorial](https://youtu.be/UafbBIGAWPQ)**  
@@ -70,3 +70,4 @@ Thank you to the developers at MathWorks, particularly Arun Mathamkode and Ankur
 If you use the steps available in **Appendix_PreRelease.pdf** in your research, please cite Garrett Asper's Master's Thesis:  
 Asper, G. D., “An Evaluation of Fault-Tolerant Control Allocation Strategies for eVTOL Aircraft,” M.S. Thesis, Virginia Tech, Blacksburg, VA, Jan. 2026. 
 _Please check back in January to ensure there are no updates to the citation, as this is a prerelease._
+
