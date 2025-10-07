@@ -15,7 +15,7 @@ The UAV Toolbox Setup Guide is a comprehensive resource for researchers, student
 ---
 
 ## File Guide
-- **[Appendices_Prerelease.pdf](https://github.com/user-attachments/files/22755632/Appendices_Prerelease.pdf)**
+- **[Appendices_Prerelease.pdf](https://github.com/gurt1223/UAV-Toolbox-Setup-Guide/blob/main/Appendices_Prerelease.pdf)**
   Pre-release edition of Garrett Asper's Master's Thesis Appendix. Step-by-step instructions for setting up the UAV Toolbox.
 
 - **[Video Tutorial](https://youtu.be/UafbBIGAWPQ)**  
