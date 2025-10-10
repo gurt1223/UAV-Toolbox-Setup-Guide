@@ -5,11 +5,13 @@ The UAV Toolbox Setup Guide repository is a comprehensive resource for researche
 ---
 
 ## Table of Contents
-- [File Guide](#file-guide)
+- **[File Guide](https://github.com/gurt1223/UAV-Toolbox-Setup-Guide/edit/main/README.md#file-guide)**
 - [How to Use](#how-to-use)
+- [Required Software](#required-software)
+- [Optional PX4 Base Code Modifications](#optional-px4-base-code-modifications)
 - [Related Publications](#related-publications)
 - [Acknowledgments](#acknowledgments)
-- [Citation](#citation)
+- [Citing This Resource](#citing-this-resource)
 
 ---
 
@@ -48,7 +50,7 @@ The UAV Toolbox Setup Guide repository is a comprehensive resource for researche
 
 ---
 
-## Modifying the PX4 Base Code
+## Optional PX4 Base Code Modifications
 Optional modifications can be made to the PX4 firmware code to enable features, including custom logging (uORB topic), custom parameters, custom telemetry stream, and flash memory reduction.
 These modification instructions are given in the `Appendix_PreRelease.pdf`, which references example files available in the [PX4-Modification-Example-Files](https://github.com/gurt1223/PX4-Modification-Example-Files) GitHub repository.
 
@@ -79,7 +81,6 @@ Awarded Best Paper Submitted to the Modeling & Simulation Technical Committee.
 
 [10]	Asper, G.D., Corrigan, P.E., Simmons, B.M., and Woolsey, C.A., “An Evaluation of Fault-Tolerant Control Allocation Strategies for eVTOL Aircraft,” AIAA SciTech 2026 Forum, Submitted for consideration, 2026.
 
-...
 </details>
 
 ---
@@ -90,7 +91,7 @@ Thank you to the developers at MathWorks, particularly Arun Mathamkode and Ankur
 
 ---
 
-## Citation
+## Citing This Resource
 If you use the steps available in **Appendix_PreRelease.pdf** to set up the UAV Toolbox for your research, please cite Garrett Asper's Master's Thesis:<br>  
 Asper, G. D., “An Evaluation of Fault-Tolerant Control Allocation Strategies for eVTOL Aircraft,” M.S. Thesis, Virginia Tech, Blacksburg, VA, To be published Jan. 2026.<br>
 _Please check back in January to ensure there are no updates to the citation. The repository contains a prerelease of the appendices, but citing the above thesis is the most effective way to acknowledge these resources._
