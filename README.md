@@ -48,6 +48,12 @@ The UAV Toolbox Setup Guide repository is a comprehensive resource for researche
 
 ---
 
+## Modifying the PX4 Base Code
+Optional modifications can be made to the PX4 firmware code to enable features, including custom logging (uORB topic), custom parameters, custom telemetry stream, and flash memory reduction.
+These modification instructions are given in the `Appendix_PreRelease.pdf`, which references example files available in the [PX4-Modification-Example-Files](https://github.com/gurt1223/PX4-Modification-Example-Files) GitHub repository.
+
+---
+
 ## Related Publications
 <details>
 <summary>Click to expand</summary>
