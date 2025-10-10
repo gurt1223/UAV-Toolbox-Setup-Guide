@@ -5,13 +5,13 @@ The UAV Toolbox Setup Guide repository is a comprehensive resource for researche
 ---
 
 ## Table of Contents
-- **[File Guide](https://github.com/gurt1223/UAV-Toolbox-Setup-Guide/edit/main/README.md#file-guide)**
-- [How to Use](#how-to-use)
-- [Required Software](#required-software)
-- [Optional PX4 Base Code Modifications](#optional-px4-base-code-modifications)
-- [Related Publications](#related-publications)
-- [Acknowledgments](#acknowledgments)
-- [Citing This Resource](#citing-this-resource)
+- **[File Guide](https://github.com/gurt1223/UAV-Toolbox-Setup-Guide#file-guide)**
+- **[How to Use](https://github.com/gurt1223/UAV-Toolbox-Setup-Guide#how-to-use)**
+- **[Required Software](https://github.com/gurt1223/UAV-Toolbox-Setup-Guide#required-software)**
+- **[Optional PX4 Base Code Modifications](https://github.com/gurt1223/UAV-Toolbox-Setup-Guide#optional-px4-base-code-modifications)**
+- **[Related Publications](https://github.com/gurt1223/UAV-Toolbox-Setup-Guide#related-publications)**
+- **[Acknowledgments](https://github.com/gurt1223/UAV-Toolbox-Setup-Guide#acknowledgements)**
+- **[Citing This Resource](https://github.com/gurt1223/UAV-Toolbox-Setup-Guide#citing-this-resource)**
 
 ---
 
@@ -85,7 +85,7 @@ Awarded Best Paper Submitted to the Modeling & Simulation Technical Committee.
 
 ---
 
-## Acknowledgments
+## Acknowledegments
 Thank you to Patrick Corrigan, Benjamin Simmons, and Anthony Comer for your support in learning the ins and outs of this toolchain.<br>
 Thank you to the developers at MathWorks, particularly Arun Mathamkode and Ankur Bose, for your insight and openness to feedback on problems and improvements.
 
