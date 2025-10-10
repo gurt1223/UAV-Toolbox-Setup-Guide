@@ -92,7 +92,7 @@ Thank you to the developers at MathWorks, particularly Arun Mathamkode and Ankur
 ---
 
 ## Citing This Resource
-If you use the steps available in **Appendix_PreRelease.pdf** to set up the UAV Toolbox for your research, please cite Garrett Asper's Master's Thesis:<br>  
+If you use the steps available in `Appendix_PreRelease.pdf` to set up the UAV Toolbox for your research, please cite Garrett Asper's Master's Thesis:<br>  
 Asper, G. D., “An Evaluation of Fault-Tolerant Control Allocation Strategies for eVTOL Aircraft,” M.S. Thesis, Virginia Tech, Blacksburg, VA, To be published Jan. 2026.<br>
 _Please check back in January to ensure there are no updates to the citation. The repository contains a prerelease of the appendices, but citing the above thesis is the most effective way to acknowledge these resources._
 
