@@ -1,6 +1,6 @@
 # UAV-Toolbox-Setup-Guide
 
-The UAV Toolbox Setup Guide repository is a comprehensive resource for researchers, students, and engineers working to test custom algorithms built in MATLAB/Simulink (i.e., model identification, path planning, control, etc.) using PX4-based UAVs in MATLAB. It provides both _written_ and _video_ tutorials to help set up the R2025a release of the UAV Toolbox and the UAV Toolbox Support Package for PX4 Autopilots.
+The UAV Toolbox Setup Guide repository is a comprehensive resource for researchers, students, and engineers working to test custom algorithms built in MATLAB/Simulink (i.e., model identification, path planning, control, etc.) using PX4-based UAVs in MATLAB. It provides both _written_ and _video_ tutorials to help set up the R2025a release of the UAV Toolbox and the UAV Toolbox Support Package for PX4 Autopilots. Additionally, it highlights both the Baseline Robust Aircraft Testing (BRAT) Framework tutorial video and the BRAT Framework repository as complementary resources for getting started with building a custom algorithm and integrating it with PX4 Inputs/Outputs. 
 
 ---
 
