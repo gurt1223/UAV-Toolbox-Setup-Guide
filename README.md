@@ -35,6 +35,19 @@ The UAV Toolbox Setup Guide repository is a comprehensive resource for researche
 
 ---
 
+## Required Software
+- QGroundControl (v4.4.2)
+- MATLAB - R2025a
+- Simulink
+- MATLAB/Simulink Add-Ons
+  - UAV Toolbox
+  - UAV Toolbox Support Package for PX4 Autopilots
+  - MATLAB Coder
+  - Simulink Coder
+  - Embedded Coder 
+
+---
+
 ## Related Publications
 <details>
 <summary>Click to expand</summary>
