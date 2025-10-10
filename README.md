@@ -17,7 +17,7 @@ The UAV Toolbox Setup Guide repository is a comprehensive resource for researche
 - **[Appendices_Prerelease.pdf](https://github.com/gurt1223/UAV-Toolbox-Setup-Guide/blob/main/Appendices_Prerelease.pdf)**<br>
   Pre-release edition of Garrett Asper's Master's Thesis Appendix. Step-by-step instructions for setting up the UAV Toolbox.
 
-- **[UAV Toolbox Setup and Configuration Tutorial Video](https://youtu.be/UafbBIGAWPQ)**<br>
+- **[UAV Toolbox Support Package for PX4 Setup and Configuration Tutorial Video](https://youtu.be/UafbBIGAWPQ)**<br>
   A tutorial video detailing the steps to set up the UAV Toolbox Support Package for PX4 Autopilots that complements the written steps found in the appendix.
 
 - **[Baseline Robust Aircraft Testing (BRAT) Framework Tutorial Video](https://youtu.be/mS8hB7pjNKs)**<br>
