@@ -17,8 +17,14 @@ The UAV Toolbox Setup Guide repository is a comprehensive resource for researche
 - **[Appendices_Prerelease.pdf](https://github.com/gurt1223/UAV-Toolbox-Setup-Guide/blob/main/Appendices_Prerelease.pdf)**<br>
   Pre-release edition of Garrett Asper's Master's Thesis Appendix. Step-by-step instructions for setting up the UAV Toolbox.
 
-- **[Video Tutorial](https://youtu.be/UafbBIGAWPQ)**<br>
-  Walkthrough video that complements the written guide.
+- **[UAV Toolbox Setup and Configuration Tutorial Video](https://youtu.be/UafbBIGAWPQ)**<br>
+  A tutorial video detailing the steps to set up the UAV Toolbox Support Package for PX4 Autopilots that complements the written steps found in the appendix.
+
+- **[Baseline Robust Aircraft Testing (BRAT) Framework Tutorial Video](https://youtu.be/mS8hB7pjNKs)**<br>
+  A tutorial video that walks through the baseline robust aircraft testing (BRAT) framework in Simulink and demonstrates the Connected IO (bench test) and Build, Deploy, & Start (flight test) functionality.
+
+- **[Baseline Robust Aircraft Testing (BRAT) Framework Repository](https://github.com/gurt1223/brat/)**<br>
+  A GitHub repository with the latest release of BRAT, a framework to get started with the PX4 Input/Output blocks available in Simulink.
 
 ---
 
